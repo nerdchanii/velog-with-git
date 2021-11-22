@@ -1,2 +1,2 @@
 user_id = 'userid'
-user_passwd = 'userpasswd'
+user_passwd = 'userpwd'
